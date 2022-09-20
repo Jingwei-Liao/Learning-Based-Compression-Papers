@@ -8,3 +8,5 @@ Ballé J, Minnen D, Singh S, Hwang SJ, Johnston N. Variational image compression
 End-to-end Optimized Image Compression. [ICLR2017](https://arxiv.org/pdf/1611.01704.pdf)  
 Ballé J, Laparra V, Simoncelli EP. End-to-end optimization of nonlinear transform codes for perceptual quality. [PCS2016](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7906310)  
 Wallace, G. K. The JPEG still picture compression standard. Communications of the ACM, 34(4), 30-44. [CACM1991](https://dl.acm.org/doi/pdf/10.1145/103085.103089)
+
+# Spherical Convolution
