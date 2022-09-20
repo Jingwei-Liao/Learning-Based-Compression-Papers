@@ -7,6 +7,8 @@ Minnen D, Ballé J, Toderici GD. Joint autoregressive and hierarchical priors fo
 Ballé J, Minnen D, Singh S, Hwang SJ, Johnston N. Variational image compression with a scale hyperprior. [ICLR 2018](https://arxiv.org/pdf/1802.01436.pdf)  
 End-to-end Optimized Image Compression. [ICLR2017](https://arxiv.org/pdf/1611.01704.pdf)  
 Ballé J, Laparra V, Simoncelli EP. End-to-end optimization of nonlinear transform codes for perceptual quality. [PCS2016](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7906310)  
-Wallace, G. K. The JPEG still picture compression standard. Communications of the ACM, 34(4), 30-44. [CACM1991](https://dl.acm.org/doi/pdf/10.1145/103085.103089)
+Wallace, G. K. The JPEG still picture compression standard. Communications of the ACM, 34(4), 30-44. [CACM1991](https://dl.acm.org/doi/pdf/10.1145/103085.103089)  
 
-# Spherical Convolution
+# Spherical-Convolution-Paper
+
+Coors B, Condurache AP, Geiger A. Spherenet: Learning spherical representations for detection and classification in omnidirectional images. [ECCV 2018] (https://openaccess.thecvf.com/content_ECCV_2018/papers/Benjamin_Coors_SphereNet_Learning_Spherical_ECCV_2018_paper.pdf)  
