@@ -14,8 +14,8 @@ Wallace, G. K. The JPEG still picture compression standard. Communications of th
 Coors B, Condurache AP, Geiger A. Spherenet: Learning spherical representations for detection and classification in omnidirectional images. [ECCV 2018](https://openaccess.thecvf.com/content_ECCV_2018/papers/Benjamin_Coors_SphereNet_Learning_Spherical_ECCV_2018_paper.pdf)  
 
 # 360&deg;Compression-Paper
-
 Wang Y, Liu D, Ma S, Wu F, Gao W. Spherical coordinates transform-based motion model for panoramic video coding. [JETCS2019](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8629996)  
+Cohen TS, Geiger M, Köhler J, Welling M. Spherical CNNs.[ICLR2018](https://arxiv.org/pdf/1801.10130.pdf)  
 
 # Projection Standard
 [JVET-F1003](https://www.researchgate.net/publication/326381357_JVET-F1003_Algorithm_descriptions_of_projection_format_conversion_and_video_quality_metrics_in_360Lib)
