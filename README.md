@@ -15,6 +15,6 @@ Coors B, Condurache AP, Geiger A. Spherenet: Learning spherical representations 
 
 # 360&deg;Compression-Paper
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8629996" target="_top">[JETCS]</a>
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8629996" target="_targt">[JETCS]</a>
 
 Wang Y, Liu D, Ma S, Wu F, Gao W. Spherical coordinates transform-based motion model for panoramic video coding. [JETCS2019](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8629996)
