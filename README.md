@@ -18,4 +18,4 @@ Coors B, Condurache AP, Geiger A. Spherenet: Learning spherical representations 
 Wang Y, Liu D, Ma S, Wu F, Gao W. Spherical coordinates transform-based motion model for panoramic video coding. [JETCS2019](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8629996)  
 
 # Projection Standard
-[JVET-F1003](file:///C:/Users/Jingwei%20Liao/Desktop/JVET-F1003-v1.pdf)
+[JVET-F1003](https://www.researchgate.net/publication/326381357_JVET-F1003_Algorithm_descriptions_of_projection_format_conversion_and_video_quality_metrics_in_360Lib)
