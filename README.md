@@ -10,7 +10,7 @@ Ballé J, Laparra V, Simoncelli EP. End-to-end optimization of nonlinear transfo
 Wallace, G. K. The JPEG still picture compression standard. Communications of the ACM, 34(4), 30-44. [CACM 1991](https://dl.acm.org/doi/pdf/10.1145/103085.103089)  
 
 # Spherical-Convolution-Paper
-Jiang C, Huang J, Kashinath K, Marcus P, Niessner M. Spherical CNNs on unstructured grids.[ICLR 2019](https://arxiv.org/pdf/1901.02039.pdf)
+Jiang C, Huang J, Kashinath K, Marcus P, Niessner M. Spherical CNNs on unstructured grids.[ICLR 2019](https://arxiv.org/pdf/1901.02039.pdf)  
 Coors B, Condurache AP, Geiger A. Spherenet: Learning spherical representations for detection and classification in omnidirectional images.[ECCV 2018](https://openaccess.thecvf.com/content_ECCV_2018/papers/Benjamin_Coors_SphereNet_Learning_Spherical_ECCV_2018_paper.pdf)  
 Cohen TS, Geiger M, Köhler J, Welling M. Spherical CNNs.[ICLR2018](https://arxiv.org/pdf/1801.10130.pdf)  
 
