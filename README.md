@@ -22,4 +22,5 @@ Wang Y, Liu D, Ma S, Wu F, Gao W. Spherical coordinates transform-based motion m
 Saff EB, Kuijlaars AB. Distributing many points on a sphere.[kuleuven1997](https://perswww.kuleuven.be/~u0017946/publications/Papers97/art97a-Saff-Kuijlaars-MI/Saff-Kuijlaars-MathIntel97.pdf)
 
 # 360&deg;Object Detection
-Su YC, Grauman K. Kernel transformer networks for compact spherical convolution.[cvpr2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Su_Kernel_Transformer_Networks_for_Compact_Spherical_Convolution_CVPR_2019_paper.pdf)
+Su YC, Grauman K. Kernel transformer networks for compact spherical convolution.[cvpr2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Su_Kernel_Transformer_Networks_for_Compact_Spherical_Convolution_CVPR_2019_paper.pdf)  
+Yang W, Qian Y, Kämäräinen JK, Cricri F, Fan L. Object detection in equirectangular panorama.[ICPR2018](https://arxiv.org/pdf/1805.08009.pdf)
