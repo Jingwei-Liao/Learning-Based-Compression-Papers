@@ -26,3 +26,6 @@ Saff EB, Kuijlaars AB. Distributing many points on a sphere.[kuleuven1997](https
 Su YC, Grauman K. Kernel transformer networks for compact spherical convolution.[cvpr2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Su_Kernel_Transformer_Networks_for_Compact_Spherical_Convolution_CVPR_2019_paper.pdf)  
 Yang W, Qian Y, Kämäräinen JK, Cricri F, Fan L. Object detection in equirectangular panorama.[ICPR2018](https://arxiv.org/pdf/1805.08009.pdf)  
 de La Garanderie GP, Abarghouei AA, Breckon TP. Eliminating the blind spot: Adapting 3d object detection and monocular depth estimation to 360 panoramic imagery.[ECCV2018](https://arxiv.org/pdf/1808.06253v1.pdf)
+
+# Overview
+Xu M, Li C, Zhang S, Le Callet P. State-of-the-art in 360 video/image processing: Perception, assessment and compression.[JSTSP2020](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8960364)
