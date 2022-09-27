@@ -28,4 +28,5 @@ Yang W, Qian Y, Kämäräinen JK, Cricri F, Fan L. Object detection in equirecta
 de La Garanderie GP, Abarghouei AA, Breckon TP. Eliminating the blind spot: Adapting 3d object detection and monocular depth estimation to 360 panoramic imagery.[ECCV2018](https://arxiv.org/pdf/1808.06253v1.pdf)
 
 # Overview
-Xu M, Li C, Zhang S, Le Callet P. State-of-the-art in 360 video/image processing: Perception, assessment and compression.[JSTSP2020](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8960364)
+Xu M, Li C, Zhang S, Le Callet P. State-of-the-art in 360 video/image processing: Perception, assessment and compression.[JSTSP2020](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8960364)  
+
