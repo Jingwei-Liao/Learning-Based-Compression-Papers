@@ -15,7 +15,8 @@ Coors B, Condurache AP, Geiger A. Spherenet: Learning spherical representations 
 Cohen TS, Geiger M, Köhler J, Welling M. Spherical CNNs.[ICLR2018](https://arxiv.org/pdf/1801.10130.pdf)  
 
 # 360&deg;Compression-Paper
-Wang Y, Liu D, Ma S, Wu F, Gao W. Spherical coordinates transform-based motion model for panoramic video coding. [JETCS2019](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8629996)  
+Wang Y, Liu D, Ma S, Wu F, Gao W. Spherical coordinates transform-based motion model for panoramic video coding.[JETCS2019](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8629996)  
+Su YC, Grauman K. Learning compressible 360° video isomers.[CVPR2018](https://openaccess.thecvf.com/content_cvpr_2018/papers/Su_Learning_Compressible_360deg_CVPR_2018_paper.pdf)  
 
 # Projection-Paper
 [JVET-F1003](https://www.researchgate.net/publication/326381357_JVET-F1003_Algorithm_descriptions_of_projection_format_conversion_and_video_quality_metrics_in_360Lib)  
