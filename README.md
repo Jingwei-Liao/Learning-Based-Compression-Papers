@@ -20,7 +20,8 @@ Su YC, Grauman K. Learning compressible 360° video isomers.[CVPR2018](https://o
 
 # Projection-Paper
 [JVET-F1003](https://www.researchgate.net/publication/326381357_JVET-F1003_Algorithm_descriptions_of_projection_format_conversion_and_video_quality_metrics_in_360Lib)  
-Saff EB, Kuijlaars AB. Distributing many points on a sphere.[kuleuven1997](https://perswww.kuleuven.be/~u0017946/publications/Papers97/art97a-Saff-Kuijlaars-MI/Saff-Kuijlaars-MathIntel97.pdf)
+Saff EB, Kuijlaars AB. Distributing many points on a sphere.[kuleuven1997](https://perswww.kuleuven.be/~u0017946/publications/Papers97/art97a-Saff-Kuijlaars-MI/Saff-Kuijlaars-MathIntel97.pdf)  
+Zelnik-Manor L, Peters G, Perona P. Squaring the circle in panoramas.[ICCV2005](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1544869)
 
 # 360&deg;Object Detection
 Su YC, Grauman K. Kernel transformer networks for compact spherical convolution.[cvpr2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Su_Kernel_Transformer_Networks_for_Compact_Spherical_Convolution_CVPR_2019_paper.pdf)  
