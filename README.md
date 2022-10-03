@@ -14,6 +14,9 @@ Jiang C, Huang J, Kashinath K, Marcus P, Niessner M. Spherical CNNs on unstructu
 Coors B, Condurache AP, Geiger A. Spherenet: Learning spherical representations for detection and classification in omnidirectional images.[ECCV 2018](https://openaccess.thecvf.com/content_ECCV_2018/papers/Benjamin_Coors_SphereNet_Learning_Spherical_ECCV_2018_paper.pdf)  
 Cohen TS, Geiger M, Köhler J, Welling M. Spherical CNNs.[ICLR2018](https://arxiv.org/pdf/1801.10130.pdf)  
 
+# Curve-Surface-Convolution-Paper
+Hu SM, Liu ZN, Guo MH, Cai JX, Huang J, Mu TJ, Martin RR. Subdivision-based mesh convolution networks.[TOG2022](https://dl.acm.org/doi/pdf/10.1145/3506694)
+
 # 360&deg;Compression-Paper
 Wang Y, Liu D, Ma S, Wu F, Gao W. Spherical coordinates transform-based motion model for panoramic video coding.[JETCS2019](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8629996)  
 Su YC, Grauman K. Learning compressible 360° video isomers.[CVPR2018](https://openaccess.thecvf.com/content_cvpr_2018/papers/Su_Learning_Compressible_360deg_CVPR_2018_paper.pdf)  
