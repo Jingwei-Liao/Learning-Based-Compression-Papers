@@ -9,6 +9,9 @@ End-to-end Optimized Image Compression. [ICLR2017](https://arxiv.org/pdf/1611.01
 Ballé J, Laparra V, Simoncelli EP. End-to-end optimization of nonlinear transform codes for perceptual quality. [PCS 2016](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7906310)  
 Wallace, G. K. The JPEG still picture compression standard. Communications of the ACM, 34(4), 30-44. [CACM 1991](https://dl.acm.org/doi/pdf/10.1145/103085.103089)  
 
+# Image-Compression-Normalization
+Ballé J, Laparra V, Simoncelli EP. Density modeling of images using a generalized normalization transformation. [ICLR2016](https://arxiv.org/pdf/1511.06281)
+
 # Spherical-Convolution-Paper
 Jiang C, Huang J, Kashinath K, Marcus P, Niessner M. Spherical CNNs on unstructured grids.[ICLR 2019](https://arxiv.org/pdf/1901.02039.pdf)  
 Coors B, Condurache AP, Geiger A. Spherenet: Learning spherical representations for detection and classification in omnidirectional images.[ECCV 2018](https://openaccess.thecvf.com/content_ECCV_2018/papers/Benjamin_Coors_SphereNet_Learning_Spherical_ECCV_2018_paper.pdf)  
