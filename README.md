@@ -38,4 +38,3 @@ Xu M, Li C, Zhang S, Le Callet P. State-of-the-art in 360 video/image processing
 Chen Z, Li Y, Zhang Y. Recent advances in omnidirectional video coding for virtual reality: Projection and evaluation.[SP2018](https://reader.elsevier.com/reader/sd/pii/S0165168418300057?token=91255BF9EFC05C00E5DBA290E37F10CE94943DC5DB754B4B74BE1E7658A9C062AD8F74E85C089DA3B7F81A4C81E655C5&originRegion=us-east-1&originCreation=20220927212654)
 
 
-y[i] = \frac{x[i]}{\sqrt{\beta[i] + \sum_j(\gamma[j, i] * x[j]^2)}}
