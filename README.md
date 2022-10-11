@@ -16,6 +16,7 @@ Ballé J, Laparra V, Simoncelli EP. Density modeling of images using a generaliz
 Jiang C, Huang J, Kashinath K, Marcus P, Niessner M. Spherical CNNs on unstructured grids.[ICLR 2019](https://arxiv.org/pdf/1901.02039.pdf)  
 Coors B, Condurache AP, Geiger A. Spherenet: Learning spherical representations for detection and classification in omnidirectional images.[ECCV 2018](https://openaccess.thecvf.com/content_ECCV_2018/papers/Benjamin_Coors_SphereNet_Learning_Spherical_ECCV_2018_paper.pdf)  
 Cohen TS, Geiger M, Köhler J, Welling M. Spherical CNNs.[ICLR2018](https://arxiv.org/pdf/1801.10130.pdf)  
+Rotation Equivariant Graph Convolutional Network for Spherical Image Classification[cvpr2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Rotation_Equivariant_Graph_Convolutional_Network_for_Spherical_Image_Classification_CVPR_2020_paper.pdf)
 
 # Curve-Surface-Convolution-Paper
 Hu SM, Liu ZN, Guo MH, Cai JX, Huang J, Mu TJ, Martin RR. Subdivision-based mesh convolution networks.[TOG2022](https://dl.acm.org/doi/pdf/10.1145/3506694)
