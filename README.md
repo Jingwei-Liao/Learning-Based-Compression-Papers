@@ -53,6 +53,7 @@ Distributing many points on a sphere.[kuleuven1997](https://perswww.kuleuven.be/
 Squaring the circle in panoramas.[ICCV2005](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1544869)  
 Measurement of areas on a sphere using Fibonacci and latitude–longitude lattices.[Mathematical Geosciences 2009](https://link.springer.com/content/pdf/10.1007/s11004-009-9257-x.pdf)  
 Map Projections:: Theory and Applications [1990](https://www.taylorfrancis.com/books/mono/10.1201/9780203748121/map-projections-ii-pearson)
+Map projections used by the U.S. Geological Survey [US Government Printing Office 1982](https://pubs.usgs.gov/bul/1532/report.pdf)
 
 
 
