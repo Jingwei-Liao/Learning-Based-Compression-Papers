@@ -30,7 +30,9 @@ Saff EB, Kuijlaars AB. Distributing many points on a sphere.[kuleuven1997](https
 Zelnik-Manor L, Peters G, Perona P. Squaring the circle in panoramas.[ICCV2005](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1544869)  
 González Á. Measurement of areas on a sphere using Fibonacci and latitude–longitude lattices.[Mathematical Geosciences 2009](https://link.springer.com/content/pdf/10.1007/s11004-009-9257-x.pdf)  
 Pearson, I. (1990). Map Projections:: Theory and Applications [1990](https://www.taylorfrancis.com/books/mono/10.1201/9780203748121/map-projections-ii-pearson)
+
 # 360&deg;Object Detection
+Zhao P, You A, Zhang Y, Liu J, Bian K, Tong Y. Spherical criteria for fast and accurate 360 object detection.[AAAI2019](https://ojs.aaai.org/index.php/AAAI/article/view/6995)  
 Su YC, Grauman K. Kernel transformer networks for compact spherical convolution.[cvpr2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Su_Kernel_Transformer_Networks_for_Compact_Spherical_Convolution_CVPR_2019_paper.pdf)  
 Yang W, Qian Y, Kämäräinen JK, Cricri F, Fan L. Object detection in equirectangular panorama.[ICPR2018](https://arxiv.org/pdf/1805.08009.pdf)  
 de La Garanderie GP, Abarghouei AA, Breckon TP. Eliminating the blind spot: Adapting 3d object detection and monocular depth estimation to 360 panoramic imagery.[ECCV2018](https://arxiv.org/pdf/1808.06253v1.pdf)
