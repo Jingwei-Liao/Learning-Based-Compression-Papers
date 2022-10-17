@@ -8,7 +8,8 @@ End-to-end Optimized Image Compression. [ICLR2017](https://arxiv.org/pdf/1611.01
 End-to-end optimization of nonlinear transform codes for perceptual quality. [PCS 2016](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7906310)  
 The JPEG still picture compression standard. [CACM 1991](https://dl.acm.org/doi/pdf/10.1145/103085.103089)  
 
-
+# 360&deg;Image Metrics
+A framework to evaluate omnidirectional video coding schemes(SPSNR). [ISMAR 2015](https://ieeexplore.ieee.org/abstract/document/7328056)
 
 
 
