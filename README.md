@@ -9,8 +9,8 @@ End-to-end optimization of nonlinear transform codes for perceptual quality. [PC
 The JPEG still picture compression standard. [CACM 1991](https://dl.acm.org/doi/pdf/10.1145/103085.103089)  
 
 # 360&deg;Image Metrics
-A framework to evaluate omnidirectional video coding schemes(SPSNR). [ISMAR 2015](https://ieeexplore.ieee.org/abstract/document/7328056)
-
+A framework to evaluate omnidirectional video coding schemes(SPSNR). [ISMAR 2015](https://ieeexplore.ieee.org/abstract/document/7328056)  
+Weighted-to-Spherically-Uniform Quality Evaluation for Omnidirectional Video. [SPL 2017](https://ieeexplore.ieee.org/abstract/document/7961186)  
 
 
 # Image-Compression-Normalization
