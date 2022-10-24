@@ -14,11 +14,11 @@ Weighted-to-Spherically-Uniform Quality Evaluation for Omnidirectional Video. [S
 
 
 # Image-Compression-Normalization
-Density modeling of images using a generalized normalization transformation. [ICLR2016](https://arxiv.org/pdf/1511.06281)
+Density modeling of images using a generalized normalization transformation. [ICLR2016](https://arxiv.org/pdf/1511.06281)  
 
 
 # Sample-Points
-ICOSAHEDRAL DISCRETIZATION OF THE TWO-SPHERE*. [SIAM 2018](https://epubs.siam.org/doi/pdf/10.1137/0722066)
+ICOSAHEDRAL DISCRETIZATION OF THE TWO-SPHERE*. [SIAM 2018](https://epubs.siam.org/doi/pdf/10.1137/0722066)  
 
 
 
