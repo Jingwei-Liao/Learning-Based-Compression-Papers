@@ -47,6 +47,15 @@ Pseudocylindrical Convolutions for Learned Omnidirectional Image Compression[arx
 Spherical coordinates transform-based motion model for panoramic video coding.[JETCS2019](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8629996)  
 Learning compressible 360° video isomers.[CVPR2018](https://openaccess.thecvf.com/content_cvpr_2018/papers/Su_Learning_Compressible_360deg_CVPR_2018_paper.pdf)  
 OSLO: On-the-Sphere Learning for Omnidirectional Images and Its Application to 360-Degree Image Compression[TIP 2022](https://ieeexplore.ieee.org/abstract/document/9875033)
+<details>
+<summary>
+OSLO: On-the-Sphere Learning for Omnidirectional Images and Its Application to 360-Degree Image Compression
+</summary>
+
+[TIP 2022](https://ieeexplore.ieee.org/abstract/document/9875033)
+
+
+</details>
 
 
 
