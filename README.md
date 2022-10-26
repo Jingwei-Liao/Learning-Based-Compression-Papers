@@ -62,8 +62,8 @@ Motivation:
 
 Contribution:
 
-1.They proposed a new convolution operation on the sphere based on the HEALPix uniform sampling
-2. They adapt existing standard CNN techniques(stride, iterative aggregation and pixel shuffling) to the spherical domain
+1.They proposed a new convolution operation on the sphere based on the HEALPix uniform sampling  
+2.They adapt existing standard CNN techniques(stride, iterative aggregation and pixel shuffling) to the spherical domain  
 3. 
 </details>
 
