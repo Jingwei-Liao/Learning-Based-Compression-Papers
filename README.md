@@ -56,16 +56,19 @@ OSLO: On-the-Sphere Learning for Omnidirectional Images and Its Application to 3
 OSLO: On-the-Sphere Learning for Omnidirectional Images and Its Application to 360-Degree Image Compression
 </summary>
 
-[TIP 2022](https://ieeexplore.ieee.org/abstract/document/9875033)
+## Motivation:
+    Existing spherical CNN didn't contain all these three properities:  
+    1. rotation equivariance  
+    2. expressive filter  
+    3. computational efficiency 
 
-Motivation:
-
-Contribution:  
-1.They proposed a new convolution operation on the sphere based on the HEALPix uniform sampling  
-2.They adapt existing standard CNN techniques(stride, iterative aggregation and pixel shuffling) to the spherical domain  
-3. 
+## Contribution:
+    1. They proposed a new convolution operation on the sphere based on the HEALPix uniform sampling.  
+    2. They adapt existing standard CNN techniques(stride, iterative aggregation and pixel shuffling) to the spherical domain.  
+    3. Apply the new framework to the task of omnidirectional image compression.  
 </details>
 
+[TIP 2022](https://ieeexplore.ieee.org/abstract/document/9875033)
 
 
 
