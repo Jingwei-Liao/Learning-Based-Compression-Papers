@@ -1,12 +1,110 @@
 # Image-Compression-Paper
-Variable-Rate Deep Image Compression through Spatially-Adaptive Feature Transform. [ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Song_Variable-Rate_Deep_Image_Compression_Through_Spatially-Adaptive_Feature_Transform_ICCV_2021_paper.pdf)  
-Learning Accurate Entropy Model with Global Reference for Image Compression. [ICLR 2021](https://arxiv.org/pdf/2010.08321.pdf)  
-Learned image compression with discretized gaussian mixture likelihoods and attention modules. [CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Learned_Image_Compression_With_Discretized_Gaussian_Mixture_Likelihoods_and_Attention_CVPR_2020_paper.pdf)  
-Joint autoregressive and hierarchical priors for learned image compression. [NIPS 2018](https://arxiv.org/pdf/1809.02736.pdf)  
-Variational image compression with a scale hyperprior. [ICLR 2018](https://arxiv.org/pdf/1802.01436.pdf)  
-End-to-end Optimized Image Compression. [ICLR2017](https://arxiv.org/pdf/1611.01704.pdf)  
-End-to-end optimization of nonlinear transform codes for perceptual quality. [PCS 2016](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7906310)  
-The JPEG still picture compression standard. [CACM 1991](https://dl.acm.org/doi/pdf/10.1145/103085.103089)  
+
+<details>
+<summary>
+Example
+</summary>
+## Motivation
+## Contribution
+</details>
+
+<details>
+<summary>Variable-Rate Deep Image Compression through Spatially-Adaptive Feature Transform.</summary>
+## Motivation
+## Contribution
+</details>
+
+[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Song_Variable-Rate_Deep_Image_Compression_Through_Spatially-Adaptive_Feature_Transform_ICCV_2021_paper.pdf)
+
+
+
+<details>
+<summary>
+Learning Accurate Entropy Model with Global Reference for Image Compression. 
+</summary>
+## Motivation
+## Contribution
+</details>
+
+[ICLR 2021](https://arxiv.org/pdf/2010.08321.pdf)  
+
+
+
+<details>
+<summary>
+Learned image compression with discretized gaussian mixture likelihoods and attention modules. 
+</summary>
+## Motivation
+## Contribution
+</details>
+
+[CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Learned_Image_Compression_With_Discretized_Gaussian_Mixture_Likelihoods_and_Attention_CVPR_2020_paper.pdf)  
+
+
+
+<details>
+<summary>
+Joint autoregressive and hierarchical priors for learned image compression. 
+</summary>
+## Motivation
+## Contribution
+</details>
+
+[NIPS 2018](https://arxiv.org/pdf/1809.02736.pdf)  
+
+
+
+<details>
+<summary>
+Variational image compression with a scale hyperprior.
+</summary>
+
+## Motivation
+1. 
+
+## Contribution
+
+</details>
+
+[ICLR 2018](https://arxiv.org/pdf/1802.01436.pdf)
+
+
+<details>
+<summary>
+End-to-end Optimized Image Compression. 
+</summary>
+## Motivation
+## Contribution
+</details>
+
+[ICLR2017](https://arxiv.org/pdf/1611.01704.pdf)  
+
+
+
+<details>
+<summary>
+End-to-end optimization of nonlinear transform codes for perceptual quality. 
+</summary>
+## Motivation
+## Contribution
+</details>
+
+[PCS 2016](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7906310)  
+
+
+
+<details>
+<summary>
+The JPEG still picture compression standard. 
+</summary>
+## Motivation
+## Contribution
+</details>
+
+[CACM 1991](https://dl.acm.org/doi/pdf/10.1145/103085.103089)  
+
+
+
 
 # 360&deg;Image Metrics
 A framework to evaluate omnidirectional video coding schemes(SPSNR). [ISMAR 2015](https://ieeexplore.ieee.org/abstract/document/7328056)  
