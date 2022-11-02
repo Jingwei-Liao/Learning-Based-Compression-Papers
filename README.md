@@ -208,3 +208,21 @@ Recent advances in omnidirectional video coding for virtual reality: Projection 
 
 
 
+# Object Detection Survey
+
+<details>
+<summary>
+Deep Learning for Generic Object Detection: A Survey
+</summary>
+
+## Motivation
+   1. Although tremendous progress has been achieved during past 5 years, but they didn't find comprehensive surveys of Object Detection.
+
+## Contribution
+
+## Definition of Object Detection 
+Given an image, determine whether or not there are instances of 
+
+</details>
+
+[IJCV 2019](https://link.springer.com/article/10.1007/s11263-019-01247-4)
