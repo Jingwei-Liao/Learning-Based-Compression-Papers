@@ -60,9 +60,23 @@ Variational image compression with a scale hyperprior.
 </summary>
 
 ## Motivation
-1. 
+<!-- 1. HEVC models images with variable size blocks, unlike JPEG which uses fixed size blocks. It can be used to achieve more efficient image compression, because HEVC is free to select a partitioning for each image. HEVC only need to transmit the side information between the encoder and decoder.By this way, the amount of side information sent is much smaller,on average, than the reduction of code length. -->
+
+1. Side information are largely unexplored in existing CNN-based image compression models
+2. Side information can be used to achieve more efficient image compression
+3. The side information of conventional image compression models is hand-designed
 
 ## Contribution
+1. This paper proposed a model to learn the latent representation of the entropy model.
+
+## Method
+![The structure of conventional image compression model](paper_figure/image_compression_paper/Variational_image_compression_with_a_scale_hyperprior/fig1.png)
+
+![The structure of conventional image compression model extended with a hyperprior](paper_figure/image_compression_paper/Variational_image_compression_with_a_scale_hyperprior/fig3.png)
+
+
+
+
 
 </details>
 
@@ -103,8 +117,15 @@ The JPEG still picture compression standard.
 
 [CACM 1991](https://dl.acm.org/doi/pdf/10.1145/103085.103089)  
 
+<details>
+<summary>
+Overview of the H.264/AVC video coding standard. 
+</summary>
+## Motivation
+## Contribution
+</details>
 
-
+[TCSVT 2003](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1218189)
 
 # 360&deg;Image Metrics
 A framework to evaluate omnidirectional video coding schemes(SPSNR). [ISMAR 2015](https://ieeexplore.ieee.org/abstract/document/7328056)  
