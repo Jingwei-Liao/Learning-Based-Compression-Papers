@@ -331,3 +331,7 @@ Involution: Inverting the Inherence of Convolution for Visual Recognition
 </details>
 
 [CVPR 2021](https://arxiv.org/abs/2103.06255)
+
+# LossLess Compression
+
+The Hitchhiker’s Guide to Compression[link](https://go-compression.github.io/)
