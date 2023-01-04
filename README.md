@@ -7,6 +7,13 @@ ELIC: Efficient Learned Image Compression With Unevenly Grouped Space-Channel Co
     [code]
 ]
 
+Joint Global and Local Hierarchical Priors for Learned Image Compression
+[
+    [CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Joint_Global_and_Local_Hierarchical_Priors_for_Learned_Image_Compression_CVPR_2022_paper.pdf)
+    |
+    [code](https://github.com/naver-ai/informer)
+]
+
 Variable-Rate Deep Image Compression through Spatially-Adaptive Feature
 [
     [ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Song_Variable-Rate_Deep_Image_Compression_Through_Spatially-Adaptive_Feature_Transform_ICCV_2021_paper.pdf)
@@ -40,6 +47,13 @@ Channel-wise autoregressive entropy models for learned image compression
     [ICIP 2020](https://arxiv.org/abs/2007.08739)
     |
     [code](https://github.com/tensorflow/compression/blob/master/models/ms2020.py)
+]
+
+Variational Autoencoder Based Image Compression with Pyramidal Features and Context Entropy Model
+[
+    [CVPRW 2019](https://openaccess.thecvf.com/content_CVPRW_2019/papers/CLIC%202019/Wen_Variational_Autoencoder_based_Image_Compression_with_Pyramidal_Features_and_Context_CVPRW_2019_paper.pdf)
+    |
+    [code]
 ]
 
 Joint autoregressive and hierarchical priors for learned image compression
