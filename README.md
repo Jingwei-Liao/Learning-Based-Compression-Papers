@@ -1,5 +1,19 @@
 # Image-Compression-Paper
 
+Entroformer: A Transformer-based Entropy Model for Learned Image Compression
+[
+    [ICLR 2022](https://arxiv.org/pdf/2202.05492.pdf)
+    |
+    [code](https://github.com/damo-cv/entroformer)
+]
+
+Contextformer: A Transformer with Spatio-Channel Attention for Context Modeling in Learned Image Compression
+[
+    [ECCV 2022](https://link.springer.com/content/pdf/10.1007/978-3-031-19800-7_26.pdf?pdf=inline%20link)
+    |
+    [code]
+]
+
 ELIC: Efficient Learned Image Compression With Unevenly Grouped Space-Channel Contextual Adaptive Coding
 [
     [CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/He_ELIC_Efficient_Learned_Image_Compression_With_Unevenly_Grouped_Space-Channel_Contextual_CVPR_2022_paper.pdf)
@@ -12,6 +26,13 @@ Joint Global and Local Hierarchical Priors for Learned Image Compression
     [CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Joint_Global_and_Local_Hierarchical_Priors_for_Learned_Image_Compression_CVPR_2022_paper.pdf)
     |
     [code](https://github.com/naver-ai/informer)
+]
+
+Checkerboard Context Model for Efficient Learned Image Compression
+[
+    [CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/He_Checkerboard_Context_Model_for_Efficient_Learned_Image_Compression_CVPR_2021_paper.pdf)
+    |
+    [code]
 ]
 
 Variable-Rate Deep Image Compression through Spatially-Adaptive Feature
