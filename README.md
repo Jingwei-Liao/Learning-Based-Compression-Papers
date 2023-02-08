@@ -77,6 +77,13 @@ Variational Autoencoder Based Image Compression with Pyramidal Features and Cont
     [code]
 ]
 
+Context-adaptive entropy model for end-to-end optimized image compression
+[
+    [ICLR 2019](https://arxiv.org/pdf/1809.10452.pdf)
+    |
+    [code](https://github.com/JooyoungLeeETRI/CA_Entropy_Model)
+]
+
 Joint autoregressive and hierarchical priors for learned image compression
 [
     [NIPS 2018](https://arxiv.org/pdf/1809.02736.pdf)
