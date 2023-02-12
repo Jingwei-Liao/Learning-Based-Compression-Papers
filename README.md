@@ -202,7 +202,7 @@ Spherical coordinates transform-based motion model for panoramic video coding
 
 Learning compressible 360° video isomers
 [
-    [CVPR 2018](https://openaccess.thecvf.com/content_cvpr_2018/papers/Su_Learning_Compressible_360deg_CVPR_2018_paper.pdf)  
+    [CVPR 2018](https://openaccess.thecvf.com/content_cvpr_2018/papers/Su_Learning_Compressible_360deg_CVPR_2018_paper.pdf)
     |
     [code]
 ]
