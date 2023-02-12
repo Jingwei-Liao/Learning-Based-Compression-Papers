@@ -186,12 +186,40 @@ Subdivision-based mesh convolution networks.[TOG2022](https://dl.acm.org/doi/pdf
 
 
 # 360&deg;Compression-Paper
-Pseudocylindrical Convolutions for Learned Omnidirectional Image Compression[arxiv 2021](https://arxiv.org/pdf/2112.13227.pdf)  
-Spherical coordinates transform-based motion model for panoramic video coding.[JETCS2019](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8629996)  
-Learning compressible 360° video isomers.[CVPR2018](https://openaccess.thecvf.com/content_cvpr_2018/papers/Su_Learning_Compressible_360deg_CVPR_2018_paper.pdf)  
-OSLO: On-the-Sphere Learning for Omnidirectional Images and Its Application to 360-Degree Image Compression[TIP 2022](https://ieeexplore.ieee.org/abstract/document/9875033)
+Pseudocylindrical Convolutions for Learned Omnidirectional Image Compression
+[
+    [arxiv 2021](https://arxiv.org/pdf/2112.13227.pdf)
+    |
+    [code](https://github.com/limuhit/pseudocylindrical_convolution)
+]
 
+Spherical coordinates transform-based motion model for panoramic video coding
+[
+    [JETCS2019](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8629996)
+    |
+    [code]
+]
 
+Learning compressible 360° video isomers
+[
+    [CVPR 2018](https://openaccess.thecvf.com/content_cvpr_2018/papers/Su_Learning_Compressible_360deg_CVPR_2018_paper.pdf)  
+    |
+    [code]
+]
+
+OSLO: On-the-Sphere Learning for Omnidirectional Images and Its Application to 360-Degree Image Compression
+[
+    [TIP 2022](https://ieeexplore.ieee.org/abstract/document/9875033)
+    |
+    [code]
+]
+
+End-to-End Optimized 360◦ Image Compression
+[
+    [TIP 2022](https://ieeexplore.ieee.org/abstract/document/9904466)
+    |
+    [code](https://github.com/limuhit/360-Image-Compression.git)
+]
 
 # Projection-Paper
 [JVET-F1003](https://www.researchgate.net/publication/326381357_JVET-F1003_Algorithm_descriptions_of_projection_format_conversion_and_video_quality_metrics_in_360Lib)  
