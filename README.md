@@ -281,6 +281,14 @@ An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
 Involution: Inverting the Inherence of Convolution for Visual Recognition
 [CVPR 2021](https://arxiv.org/abs/2103.06255)
 
+# Vision Language Model
+Can Language Understand Depth?
+[
+    [MM 2022](https://arxiv.org/pdf/2207.01077.pdf)
+    |
+    [code](https://github.com/Adonis-galaxy/DepthCLIP)
+]
+
 # LossLess Compression
 
 The Hitchhiker’s Guide to Compression[link](https://go-compression.github.io/)  
