@@ -144,6 +144,12 @@ DVC: An End-To-End Deep Video Compression Framework
     |
     [code](https://github.com/GuoLusjtu/DVC)
 ]
+FVC: A New Framework towards Deep Video Compression in Feature Space
+[
+    [CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_FVC_A_New_Framework_Towards_Deep_Video_Compression_in_Feature_CVPR_2021_paper.pdf)
+    |
+    [code]()
+]
 
 # 360&deg;Image Metrics
 A framework to evaluate omnidirectional video coding schemes(SPSNR)
