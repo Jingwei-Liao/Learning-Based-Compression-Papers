@@ -301,12 +301,20 @@ Can Language Understand Depth?
     [code](https://github.com/Adonis-galaxy/DepthCLIP)
 ]
 
+Self-Supervised Transformers for Unsupervised Object Discovery using Normalized Cut
+[
+    [CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Self-Supervised_Transformers_for_Unsupervised_Object_Discovery_Using_Normalized_Cut_CVPR_2022_paper.pdf)
+    |
+    [code](https://github.com/YangtaoWANG95/TokenCut)
+]
+
 Cut and Learn for Unsupervised Object Detection and Instance Segmentation
 [
     [CVPR 2023](https://arxiv.org/pdf/2301.11320.pdf)
     |
     [code](https://github.com/facebookresearch/CutLER)
 ]
+
 
 # LossLess Compression
 
