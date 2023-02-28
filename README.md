@@ -301,6 +301,13 @@ Can Language Understand Depth?
     [code](https://github.com/Adonis-galaxy/DepthCLIP)
 ]
 
+Cut and Learn for Unsupervised Object Detection and Instance Segmentation
+[
+    [CVPR 2023](https://arxiv.org/pdf/2301.11320.pdf)
+    |
+    [code](https://github.com/facebookresearch/CutLER)
+]
+
 # LossLess Compression
 
 The Hitchhiker’s Guide to Compression[link](https://go-compression.github.io/)  
