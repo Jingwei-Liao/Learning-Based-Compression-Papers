@@ -301,6 +301,13 @@ Can Language Understand Depth?
     [code](https://github.com/Adonis-galaxy/DepthCLIP)
 ]
 
+Localizing Objects with Self-Supervised Transformers and no Labels
+[
+    [BMVC 2021](https://arxiv.org/pdf/2109.14279.pdf)
+    |
+    [code](https://github.com/valeoai/LOST)
+]
+
 Self-Supervised Transformers for Unsupervised Object Discovery using Normalized Cut
 [
     [CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Self-Supervised_Transformers_for_Unsupervised_Object_Discovery_Using_Normalized_Cut_CVPR_2022_paper.pdf)
@@ -314,6 +321,7 @@ Cut and Learn for Unsupervised Object Detection and Instance Segmentation
     |
     [code](https://github.com/facebookresearch/CutLER)
 ]
+
 
 
 # LossLess Compression
