@@ -301,6 +301,13 @@ Can Language Understand Depth?
     [code](https://github.com/Adonis-galaxy/DepthCLIP)
 ]
 
+Emerging Properties in Self-Supervised Vision Transformers
+[
+    [ICCV 2021](https://arxiv.org/pdf/2104.14294.pdf)
+    |
+    [code](https://github.com/facebookresearch/dino)
+]
+
 Localizing Objects with Self-Supervised Transformers and no Labels
 [
     [BMVC 2021](https://arxiv.org/pdf/2109.14279.pdf)
