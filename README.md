@@ -299,6 +299,14 @@ Transformers in Vision: A Survey
     |
     [code]
 ]
+
+Look Outside the Room: Synthesizing A Consistent Long-Term 3D Scene Video from A Single Image
+[
+    [CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Ren_Look_Outside_the_Room_Synthesizing_a_Consistent_Long-Term_3D_Scene_CVPR_2022_paper.pdf)
+    |
+    [code](https://github.com/xrenaa/Look-Outside-Room)
+]
+
 # Zero-Shot Model
 Can Language Understand Depth?
 [
