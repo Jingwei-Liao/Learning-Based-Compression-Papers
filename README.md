@@ -1,5 +1,9 @@
 # Image Compression
 
+## 2024
+Frequency-Aware Transformer for Learned Image Compression [ICLR24](https://arxiv.org/pdf/2310.16387)
+
+
 ## 2022
 
 Entroformer: A Transformer-based Entropy Model for Learned Image Compression [ICLR 2022](https://arxiv.org/pdf/2202.05492.pdf)
