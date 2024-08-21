@@ -5,6 +5,8 @@ Frequency-Aware Transformer for Learned Image Compression [ICLR24](https://arxiv
 
 Generative Latent Coding for Ultra-Low Bitrate Image Compression [CVPR24](https://openaccess.thecvf.com/content/CVPR2024/papers/Jia_Generative_Latent_Coding_for_Ultra-Low_Bitrate_Image_Compression_CVPR_2024_paper.pdf)
 
+Towards Backward-Compatible Continual Learning of Image Compression [CVPR24](https://arxiv.org/pdf/2402.18862)
+
 ## 2022
 
 Entroformer: A Transformer-based Entropy Model for Learned Image Compression [ICLR 2022](https://arxiv.org/pdf/2202.05492.pdf)
